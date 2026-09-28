@@ -1,0 +1,6 @@
+{
+  "name": "MENDEL DRUMZ",
+  "description": "Personal drum lesson web app. Learn, practice rhythms, master rudiments, play virtual drums, and track drumming progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
